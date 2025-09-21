@@ -15,8 +15,14 @@ This project demonstrates how to add products, store them in **localStorage**, a
 
 ---
 
+## 📸 Screenshots
+
+![Product List](![alt text](image.png))
+
+---
+
 ## 🖼️ Demo
-👉 **Hosted URL:** [Your Live Project Link Here](#)  
+👉 **Hosted URL:** [Your Live Project Link Here](https://rajdipchatterjee.github.io/ecommerce-01/)  
 
 ---
 
