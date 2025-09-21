@@ -17,7 +17,7 @@ This project demonstrates how to add products, store them in **localStorage**, a
 
 ## 📸 Screenshots
 
-![Product List](![alt text](image.png))
+![Product List](image.png)
 
 ---
 
